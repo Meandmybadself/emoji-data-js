@@ -22,17 +22,17 @@
     "bench":      "coffee ./scripts/bench.coffee"
   },
   "dependencies": {
-    "underscore.string":  "^2.3.3"
+    "underscore.string": "^3.3.4"
   },
   "devDependencies": {
-    "benchmark":          "^1.0.0",
-    "chai":               "^1.9.1",
+    "benchmark": "^2.1.0",
+    "chai": "^3.5.0",
     "codo":               "^2.0.9",
     "coffee-errors":      "^0.8.5",
     "coffee-script":      "^1.7.1",
-    "lodash":             "^2.4.1",
-    "microtime":          "^1.0.1",
-    "mocha":              "^1.18.2",
+    "lodash": "^4.13.1",
+    "microtime": "^2.1.1",
+    "mocha": "^2.5.3",
     "sinon":              "^1.9.1",
     "sinon-chai":         "^2.5.0"
   },
